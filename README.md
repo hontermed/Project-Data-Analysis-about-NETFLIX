@@ -14,6 +14,5 @@ I present an analysis of the dataset where the Netflix platform collects all the
 - The most offered programs on the platform are catalogued for adults and these represent 36.4%.
 - The type of content most offered is dominated by movies.
 - A list of movies similar to the 'Alien TV' film was found, as well as series in the style of 'The Walking Dead'
-
 This project allowed me to detect a wide variety of ways to clean the database which included the removal and replacement of missing, inconsistent and invalid values
 that required urgent treatment in order to obtain a satisfactory exploratory analysis, it also allowed me to implement my basic knowledge of machine learning through a system of recommendations that help optimize the customer experience according to the visual products offered through the platform.
